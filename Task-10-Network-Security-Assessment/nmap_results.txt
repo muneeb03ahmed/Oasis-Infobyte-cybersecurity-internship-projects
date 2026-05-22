@@ -1,1 +1,13 @@
-
+Starting Nmap 7.95 ( https://nmap.org ) at 2026-05-21 16:15 EDT
+Nmap scan report for 192.168.36.1
+Host is up (0.00025s latency).
+MAC Address: 00:50:56:C0:00:01 (VMware)
+Nmap scan report for 192.168.36.2
+Host is up (0.00032s latency).
+MAC Address: 00:50:56:F2:8D:1C (VMware)
+Nmap scan report for 192.168.36.254
+Host is up (0.00049s latency).
+MAC Address: 00:50:56:EB:B9:18 (VMware)
+Nmap scan report for 192.168.36.130
+Host is up.
+Nmap done: 256 IP addresses (4 hosts up) scanned in 2.13 seconds
